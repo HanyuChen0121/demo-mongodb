@@ -1,0 +1,14 @@
+backend: 
+npm install express mongoose dotenv   
+touch index.js .env
+npm install cors
+npm install winston
+1. 
+Step 1: Define MongoDB Model (models/Movie.js)
+Step 2: Create Route Handler (controllers/movieController.js)
+Step 3: Integrate Route Handler in index.js
+frontend: 
+npx create-react-app client
+npm install bootstrap
+npm install axios
+npm install react-router-dom
